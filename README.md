@@ -1,7 +1,7 @@
 ### Oii, Me chamo Denis Aparecido 👋
 
 
-- 🌱Atualmente estudo progrmação na Faculdade Nove de Julho - UNINOVE,
+- 🌱Atualmente estou estudando Analise e Desenvolvimento de Sistema na Faculdade Nove de Julho - UNINOVE,
 Se especializando em C# - ASP.NET Core
 - 👯 Estou procurando me ingressar no mercado de trabalho !!
 - 💬 Sobre mim tenho 24 anos moro em São Paulo ZL, amo programar gosto bastante de html,css,
