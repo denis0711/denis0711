@@ -1,11 +1,19 @@
 ### Oii, Me chamo Denis Aparecido 👋
 
 
-- 🌱Atualmente estou estudando Analise e Desenvolvimento de Sistema na Faculdade Nove de Julho - UNINOVE,
-Se especializando em C# - ASP.NET Core
+- 🌱Formado em Analise e Desenvolvimento de Sistema na Faculdade Nove de Julho - UNINOVE,
+especialista em C# - ASP.NET Core, .Net Core na criação de APIs e Integrações
 - 👯 Estou procurando me ingressar no mercado de trabalho !!
-- 💬 Sobre mim tenho 24 anos moro em São Paulo ZL, amo programar gosto bastante de html,css,
-javascript e principalmente de c#
+- 💬 Sobre mim tenho 27 anos moro em São Paulo ZL,
+- sou um Desenvolvedor Back-End com mais de 3 anos de experiência sólida em .NET Core
+- especializado na criação eficiente de APIs.
+- com um forte domínio em SQL Server, permitindo-me otimizar a integração e o desempenho das aplicações.
+
+Além disso, tenho conhecimento básico em projetos Windows Forms e Angular, 
+o que amplia minha versatilidade no desenvolvimento de soluções. Adquiri habilidades robustas em Dapper e Entity Framework Core,
+utilizando essas ferramentas para maximizar a performance e escalabilidade das soluções que desenvolvo. 
+Com um domínio sólido em C#, estou sempre em busca de desafios que me permitam expandir meu conhecimento e contribuir com equipes inovadoras.
+
 
  <div>
   <a href="https://github.com/denis0711">
